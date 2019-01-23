@@ -9,4 +9,5 @@ package com.zhangnaiwang.test;
  * @time 2019-01-23 15:17
  */
 public class w {
+    public void test(){}
 }
